@@ -1,0 +1,5 @@
+{
+  "name": "NeonFlow - AI 3D Runner",
+  "description": "A mesmerizing endless runner where the game world's aesthetics and atmosphere are generated in real-time by Gemini based on your mood or keywords.",
+  "requestFramePermissions": []
+}
